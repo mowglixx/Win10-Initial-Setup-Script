@@ -1,3 +1,10 @@
+# Customised by mowglixx
+## This is the readme.md of [Disassembler0's "Win10-Initial-Setup-Script"](https://github.com/Disassembler0/Win10-Initial-Setup-Script)
+
+## I have only chnaged the default preset for my own uses please check `/Default.preset` and if you prefer that layout and OS hop all the time like I do... then use this of do the same yourself.
+
+### All credit to [`Disassembler0`](https://github.com/Disassembler0) for Powershel scripts Feel free to send donations via their [PayPal](https://www.paypal.me/Disassembler).
+
 ## Contents
  - [Description](#description)
  - [Usage](#usage)
